@@ -8,6 +8,7 @@ Disable the antivirus before running the grabber because it could break when cre
 
 
 Steals data fast without getting caught by any antivirus
+
 Searches for cookies in all browsers like Chrome, Firefox, Opera, Opera GX and Brave.
 
 
