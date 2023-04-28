@@ -15,6 +15,10 @@ Searches for cookies in all browsers like Chrome, Firefox, Opera, Opera GX and B
 How to use
 
 Open Grabber.exe
+
 Create a webhook on your Discord server.
+
 Change the sample webhook to your Discord webhook URL.
+
 Send the stealer to your victim and make them run it.
+
