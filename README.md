@@ -1,11 +1,12 @@
 Discord Token Grabber
-A Discord token grabber written in C#.
+A Discord token grabber written in python.
 
-
+Important ! 
+Disable the antivirus before running the grabber because it could break when creating the stealer as it is creating malicious code.
 
 Features
-Transfers via Discord webhook
-Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
+Steals data fast without getting caught by any antivirus
+Searches for cookies in all browsers like Chrome, Firefox, Opera, Opera GX and Brave.
 
 
 How to use
